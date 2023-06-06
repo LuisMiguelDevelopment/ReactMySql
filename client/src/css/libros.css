@@ -1,0 +1,17 @@
+.libros-body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20%;
+    
+}
+
+.card{
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+.agregar{
+    text-decoration: none;
+}
+
